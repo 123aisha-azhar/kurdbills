@@ -1,0 +1,89 @@
+{
+  "project_info": {
+    "project_number": "632084541773",
+    "project_id": "kurd-bills",
+    "storage_bucket": "kurd-bills.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632084541773:android:9c16ba446ff914b5af4704",
+        "android_client_info": {
+          "package_name": "com.mycompany.kurdbills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632084541773-aljituep2kk08n1jh1gmadd4e644o8oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.kurdbills",
+            "certificate_hash": "9a089a0fd9a106f1c8e7d7f5890e255ef5fb63dc"
+          }
+        },
+        {
+          "client_id": "632084541773-f4jus36mk5sd1bfga2vfg7prlloubicd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.kurdbills",
+            "certificate_hash": "a30628b056f29690d8224557b15dcebd001a9ae9"
+          }
+        },
+        {
+          "client_id": "632084541773-koll623l6auv5si6a7dooeeg5b5mu6pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.kurdbills",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "632084541773-mq653lgvlohpsarb0bspit9uiobt11dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.kurdbills",
+            "certificate_hash": "bd89d3c65764db46b62791571242ce2c0183617c"
+          }
+        },
+        {
+          "client_id": "632084541773-vb428iv7kqi9bmsa65a4isua037b10pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.kurdbills",
+            "certificate_hash": "6a758d0db31a78de18285cdef68a09905a6aa8fe"
+          }
+        },
+        {
+          "client_id": "632084541773-i8ok0a8isr22srnis9929880t5krj4d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNP72hXflHPubdWrH0IJ3HWiyQMUbLoAA"
+        },
+        {
+          "current_key": "AIzaSyDwouZT5YJ05IUpkPN6J6Y_tnLdqqZrV0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632084541773-i8ok0a8isr22srnis9929880t5krj4d3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632084541773-pmc7jejc9kkusun1hb4vdd8gftsiq6n9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.kurdbills.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
